@@ -4,15 +4,39 @@
     <title>S.T.E.M. forest</title>
     <meta charset="utf-8">
     <style>
-    
+   .table-border {
+       margin-right: 10px;
+   }
+   a:link {
+       color: rgb(14, 245, 22);
+   }
+   a:visited {
+       color: green;
+   }
+   a:hover {
+       background-color: rgb(217, 179, 28);
+   }
+   a:active, a:focus {
+       color: rgb(102, 98, 102);
+   }
+   h1 {
+       font-family: "Architects
+   }
     </style>
 
 </head>
 <body>
-<h1>About Us<h1>
-<p>
-...
-</p>
-
+<h1>S.T.E.M. Forest</h1> 
+<table>
+    <thead>
+        <tr> <a class="table-border" href="https://stemforest.com/aboutus">About Us </a></tr>
+        <tr>
+            <a class="table-border" href="https://stemforest.com/onlinecourse">Online Course</a>
+        </tr>
+        <tr>
+            <a class="table-border" href="https://stemforest.com/questionbank">Question Bank</a>
+        </tr>
+    </thead>
+</table>
 </body>
 </html>
